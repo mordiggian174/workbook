@@ -36,3 +36,12 @@ In principle, this describes my current knowledge of Computer Science (although 
 * $\ell_0$ sampling through sketches
 * checking the connectivity of a distributed graph using $\ell_0$ sample
 * approach to the complexity of tasks on streams through the theory of communication
+
+## Sorts
+
+* choice sort
+* insert sort
+* merget sort
+* quick sort
+* digit sort
+* counting sort
