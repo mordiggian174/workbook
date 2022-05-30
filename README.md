@@ -1,8 +1,11 @@
 # Workbook
-Here will be posted my summaries/thoughts on various areas of Computer Science
+Here will be posted my summaries/thoughts on various areas of Computer Science & Programming
 
 The information provided is taken either from open courses or from special courses of the MMF NSU
 
+# Why did I post this?
+
+In principle, this describes my current knowledge of Computer Science (although in a first approximation)
 
 # Files
 
