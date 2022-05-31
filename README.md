@@ -45,3 +45,13 @@ In principle, this describes my current knowledge of Computer Science (although 
 * quick sort
 * digit sort
 * counting sort
+
+## Other
+
+* Linear FindKth
+* BinSearch
+* Dynamic Programming
+* Greedy Algorithm
+* RMQ
+* LCA
+* Segment Tree
