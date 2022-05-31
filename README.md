@@ -70,3 +70,17 @@ In principle, this describes my current knowledge of Computer Science (although 
 * B-Merge
 * cache oblivious model
 * Van Embde Boas Tree
+
+## Data Structures
+
+* stack
+* queue
+* deque
+* priority queue (heap)
+* des
+* BST
+* AVL Tree
+* RedBlack Tree
+* B-Tree
+* Splay Tree
+* Treap
