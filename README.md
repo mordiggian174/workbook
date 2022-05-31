@@ -62,3 +62,11 @@ In principle, this describes my current knowledge of Computer Science (although 
 * hash map
 * hash functions
 * Karp-Rabin Algorithm
+
+## External memory algorithms
+
+* external memory model
+* B-Search
+* B-Merge
+* cache oblivious model
+* Van Embde Boas Tree
