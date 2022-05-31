@@ -55,3 +55,10 @@ In principle, this describes my current knowledge of Computer Science (although 
 * RMQ
 * LCA
 * Segment Tree
+
+## Hash
+
+* hash set
+* hash map
+* hash functions
+* Karp-Rabin Algorithm
