@@ -84,3 +84,17 @@ In principle, this describes my current knowledge of Computer Science (although 
 * B-Tree
 * Splay Tree
 * Treap
+
+## Graphs
+
+* storage methods
+* dfs
+* bfs
+* topological sorting and searching for cycles
+* compression of strongly connected components in an undirected graph
+* finding the path of least weight (Bellman-Ford DP with subsegments)
+* finding the path of least weight (Dijkstra with non-negativity and heaps)
+* search for negative cycles
+* Floyd-Warshall algorithm for finding distances between all vertices
+* Kruskal algorithm (Greedy)
+* Prim's algorithm (similar to Dijkstra's algorithm)
